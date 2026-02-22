@@ -5,7 +5,7 @@ A curated database of covalent binders (CBs) deposited in the Protein Data Bank 
 	- Identifiers of the covalent binders (LIGID)
 	- SMILES notation
 	- Molecular weight (MW)
-        - Number of hydrogen bond acceptors (HBA) and donors (HBD)
+    - Number of hydrogen bond acceptors (HBA) and donors (HBD)
 	- Calculated logarithm of the octanol-water partition coefficient (logP)
 	- Topological polar surface area (TPSA)
 	- Fraction of sp3-hybridized carbon atoms (CSP3)
