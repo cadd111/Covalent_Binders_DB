@@ -1,5 +1,5 @@
 # Covalent_Binders_DB
-A curated database of covalent binders (CBs) deposited in the Protein Data Bank (PDB).
+A curated database of covalent binders (CBs) in the Protein Data Bank (PDB) through January 1, 2026.
 
 ## 01_CovDB.csv  
 	- Identifiers of the covalent binders (LIGID)
