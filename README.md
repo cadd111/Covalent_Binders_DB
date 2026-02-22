@@ -26,7 +26,7 @@ Upon completion of the adducts derived from structures deposited in the PDB, sev
 This document lists the covalent binder IDs corresponding to shared structures. To avoid duplicates and ensure proper database curation, only the first identifier was retained (LIGID-01).
 
 ## 04_PDBs.csv
-  - Covalent binder identifier (LIGID): The unique identifier assigned to each covalent ligand
+	- Covalent binder identifier (LIGID): The unique identifier assigned to each covalent ligand
 	- PDB identifier (PDB): The Protein Data Bank code associated with the structure
 	- Protein classification (CLASS)
 
