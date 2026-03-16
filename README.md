@@ -31,6 +31,3 @@ This document lists the covalent binder IDs corresponding to shared structures. 
 	- Protein classification (CLASS)
 
     CLASS: hydrolases (HYD), transferases (TRF), oxidoreductases (OXI), lyases (LYA), isomerases (ISO), ligases (LIG), translocases (TRL), and non-enzymatic targets (OTR).
-
-## 05_Alpha-hydroxysulfonic_to_Aldehyde.csv
-The conversion of the α-hydroxysulfonic acid warhead to an aldehyde in some peptidomimetics resulted in identical structures being associated with different ligands reported under separate IDs. To standardize this, only one identifier was retained.
