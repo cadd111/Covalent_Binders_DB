@@ -1,12 +1,21 @@
 # Covalent_Binders_DB
 A curated database of covalent binders (CBs) in the Protein Data Bank (PDB) through January 1, 2026.
 
+**Velasco-Saavedra, M.A., et al. (2026).**
+*Chemical Space Exploration of a Database of Covalent Binders in the PDB*.
+*Journal of Chemical Information and Modeling*.
+DOI: [10.1021/acs.jcim.6c00846](https://doi.org/10.1021/acs.jcim.6c00846)
+
+<p align="center">
+  <img src="GA.png" alt="Graphical abstract" width="700">
+</p>
+
 ## 01_CovDB.csv  
-	- Identifiers of the covalent binders (LIGID)
-	- SMILES notation
+	- Covalent binder identifier (CBID)
+	- SMILES notation (SMILES)
 	- Molecular weight (MW)
-    - Number of hydrogen bond acceptors (HBA) and donors (HBD)
-	- Calculated logarithm of the octanol-water partition coefficient (logP)
+	- Number of hydrogen bond acceptors (HBA) and donors (HBD)
+	- Calculated logarithm of the octanol-water partition coefficient (cLogP)
 	- Topological polar surface area (TPSA)
 	- Fraction of sp3-hybridized carbon atoms (CSP3)
 	- Number of rings (NumRings)
@@ -17,16 +26,12 @@ A curated database of covalent binders (CBs) in the Protein Data Bank (PDB) thro
 Each covalent binder is annotated to indicate whether it is a fragment, a FDA-approved drug (DrugBank ID), and/or present in the COCONUT database (COCONUT ID).
 
 ## 02_Warheads.csv
-	- Identifiers of the covalent binders (LIGID)
+	- Covalent binder identifier (CBID)
 	- Full (Warhead-01) and summarized (Warhead-02) warhead notation
-	- InChI notation
 
-## 03_Pairs.csv
-Upon completion of the adducts derived from structures deposited in the PDB, several covalent binders were found to have more than one ligand identifier. 
-This document lists the covalent binder IDs corresponding to shared structures. To avoid duplicates and ensure proper database curation, only the first identifier was retained (LIGID-01).
-
-## 04_PDBs.csv
-	- Covalent binder identifier (LIGID): The unique identifier assigned to each covalent ligand
+## 03_PDBs.csv
+	- Covalent binder identifier (CBID): The unique identifier assigned to each covalent ligand
+	- PDB ligand identifier (LIGID): The identifier assigned by the PDB to the ligand
 	- PDB identifier (PDB): The Protein Data Bank code associated with the structure
 	- Protein classification (CLASS)
 
