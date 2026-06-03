@@ -3,8 +3,9 @@ A curated database of covalent binders (CBs) in the Protein Data Bank (PDB) thro
 
 **Velasco-Saavedra, M.A., et al. (2026).**
 *Chemical Space Exploration of a Database of Covalent Binders in the PDB*.
-*Journal of Chemical Information and Modeling*.
+*Journal of Chemical Information and Modeling. In Press*.
 DOI: [10.1021/acs.jcim.6c00846](https://doi.org/10.1021/acs.jcim.6c00846)
+
 
 <p align="center">
   <img src="GA.png" alt="Graphical abstract" width="700">
