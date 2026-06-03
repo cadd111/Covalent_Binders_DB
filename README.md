@@ -35,4 +35,4 @@ Each covalent binder is annotated to indicate whether it is a fragment, a FDA-ap
 	- PDB identifier (PDB): The Protein Data Bank code associated with the structure
 	- Protein classification (CLASS)
 
-    CLASS: hydrolases (HYD), transferases (TRF), oxidoreductases (OXI), lyases (LYA), isomerases (ISO), ligases (LIG), translocases (TRL), and non-enzymatic targets (OTR).
+CLASS: hydrolases (HYD), transferases (TRF), oxidoreductases (OXI), lyases (LYA), isomerases (ISO), ligases (LIG), translocases (TRL), and non-enzymatic targets (OTR).
